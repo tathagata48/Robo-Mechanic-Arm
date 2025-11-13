@@ -3,6 +3,7 @@ using System.Collections;
 using System.IO;
 using System.Net.Sockets;
 using UnityEngine;
+using UnityEngine.ImageConversion;
 
 /// <summary>
 /// Streams images from the attached camera to a remote python service and
